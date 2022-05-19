@@ -1,3 +1,8 @@
+.App {
+  display: block;
+  margin: 0 auto;
+}
+
 .App-header {
   margin: 30px 0;
 }
