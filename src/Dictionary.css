@@ -2,3 +2,18 @@
   display: block;
   margin: 0 auto;
 }
+
+.Dictionary section {
+  background: #40a798;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 10%);
+  margin: 20px 0;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 6px 10px;
+  color: €333;
+  border: 1px solid #ddd;
+}

@@ -1,3 +1,11 @@
+body {
+  background: #f5e1da;
+}
+
+a {
+  color: #476269;
+}
+
 .App {
   display: block;
   margin: 0 auto;
