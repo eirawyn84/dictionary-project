@@ -24,7 +24,7 @@ export default function AudioPlayer(props) {
     }
   }
   return (
-    <div className="audioPLayer">
+    <div className="audioPlayer">
       <audio ref={audioPlayer} src={props.audio} preload="metadata"></audio>
       <button onClick={togglePlayPause} className="playPause">
         {isPlaying ? <FaPauseCircle /> : <FaPlayCircle className="play" />}

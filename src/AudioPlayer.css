@@ -1,16 +1,10 @@
-.audioPLayer {
-  align-items: center;
-  display: flex;
-  width: 700px;
+.audioPlayer {
+  display: inline-block;
 }
 
 .playPause {
   background: none;
   border: none;
-  width: 75px;
-  height: 75px;
   font-size: 32px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  color: #38598b;
 }
